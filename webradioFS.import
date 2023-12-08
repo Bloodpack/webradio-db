@@ -9,9 +9,9 @@
 
 # BR Bayrischer Rundfunk
 
-{Bayern 1 Oberbayern}{https://streams.br.de/bayern1obb_2.m3u}{mp3}{}{128}
-{Bayern 2 Süd}{https://streams.br.de/bayern2sued_2.m3u}{mp3}{}{128}
-{BAYERN 3}{https://streams.br.de/bayern3_2.m3u}{mp3}{}{128}
-{BR Schlager}{https://streams.br.de/brschlager_2.m3u}{mp3}{Schlager}{128}
-{BR PULS}{https://streams.br.de/puls_2.m3u}{mp3}{}{128}
+{Bayern 1 Oberbayern}{https://streams.br.de/bayern1obb_2.m3u}{m3u}{}{128}
+{Bayern 2 Süd}{https://streams.br.de/bayern2sued_2.m3u}{m3u}{}{128}
+{BAYERN 3}{https://streams.br.de/bayern3_2.m3u}{m3u}{}{128}
+{BR Schlager}{https://streams.br.de/brschlager_2.m3u}{m3u}{Schlager}{128}
+{BR PULS}{https://streams.br.de/puls_2.m3u}{mm3u}{}{128}
 
