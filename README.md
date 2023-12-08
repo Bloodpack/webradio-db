@@ -2,7 +2,7 @@
 Here is my WebradioFS stram list
 
 
-# Streams nedd to be formatted as shown
+# Streams need to be formatted as shown
 
 ```yaml
 #group:von_Hildegard (optional)
