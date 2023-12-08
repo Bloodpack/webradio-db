@@ -1,7 +1,17 @@
-#Hitradio RT1
+# Hitradio RT1
+
 {hitradio rt1-80´er}{https://frontend.streamonkey.net/rt1-ch11}{mp3}{80´er Musik}{128}
 {hitradio rt1-90´er}{https://frontend.streamonkey.net/rt1-ch12}{mp3}{90´er Musik}{128}
 {hitradio rt1-2000´er}{https://frontend.streamonkey.net/rt1-ch10}{mp3}{2000´er Musik}{128}
 {hitradio rt1-BLACK}{https://frontend.streamonkey.net/rt1-ch13}{mp3}{Black Musik}{128}
 {hitradio rt1-XMAS}{https://frontend.streamonkey.net/rt1-ch25}{mp3}{Seasonal Christmas}{128}
 {hitradio rt1-IN THE MIX}{https://frontend.streamonkey.net/rt1-ch19}{mp3}{MIX}{128}
+
+# BR Bayrischer Rundfunk
+
+{Bayern 1 Oberbayern}{https://streams.br.de/bayern1obb_2.m3u}{mp3}{}{128}
+{Bayern 2 Süd}{https://streams.br.de/bayern2sued_2.m3u}{mp3}{}{128}
+{BAYERN 3}{https://streams.br.de/bayern3_2.m3u}{mp3}{}{128}
+{BR Schlager}{https://streams.br.de/brschlager_2.m3u}{mp3}{Schlager}{128}
+{BR PULS}{https://streams.br.de/puls_2.m3u}{mp3}{}{128}
+
