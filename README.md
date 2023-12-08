@@ -1,5 +1,5 @@
 # webradio-db
-Here is my WebradioFS stram list
+Here is my WebradioFS stream list
 
 
 # Streams need to be formatted as shown
